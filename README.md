@@ -5,11 +5,11 @@ An AI project which involved programming various CNN architectures from scratch 
 
 Architectures implemented in this project were limited by hardware so they did not have many parameters:
 
-  LeNet-5
+  - LeNet-5
   
-  JecNet-5
+  - JecNet-5
   
-  AlexNet/ImageNet
+  - AlexNet/ImageNet
   
   
 Each model was trained on Google Collab and many results were derived from them such as training execution time and training loss given various epochs, learning rate and optimisers. In my conclusion, I found that my architecture, JecNet-5 had the best performance on the CIFAR-10 Dataset despite having less parameters and layers than AlexNet/ImageNet. The graph to my architecture is found below:
